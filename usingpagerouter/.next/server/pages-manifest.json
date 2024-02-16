@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/data_fetching/getserversideprops": "pages/data_fetching/getserversideprops.js",
+  "/data_fetching/ISR/[id]": "pages/data_fetching/ISR/[id].js"
+}

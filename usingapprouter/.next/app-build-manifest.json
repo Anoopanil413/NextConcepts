@@ -1,0 +1,60 @@
+{
+  "pages": {
+    "/loading": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/loading.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/parallelroutes/dashboarddb/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/parallelroutes/dashboarddb/page.js"
+    ],
+    "/parallelroutes/@analytics/analysis/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/parallelroutes/@analytics/analysis/page.js"
+    ],
+    "/parallelroutes/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/parallelroutes/layout.js"
+    ],
+    "/parallelroutes/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/parallelroutes/page.js"
+    ],
+    "/parallelroutes/@analytics/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/parallelroutes/@analytics/page.js"
+    ],
+    "/parallelroutes/@team/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/parallelroutes/@team/page.js"
+    ],
+    "/parallelroutes/@team/default": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/parallelroutes/@team/default.js"
+    ],
+    "/parallelroutes/default": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/parallelroutes/default.js"
+    ],
+    "/parallelroutes/@analytics/default": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/parallelroutes/@analytics/default.js"
+    ]
+  }
+}

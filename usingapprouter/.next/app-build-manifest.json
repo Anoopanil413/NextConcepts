@@ -1,60 +1,35 @@
 {
   "pages": {
-    "/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/loading.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/parallelroutes/dashboarddb/page": [
+    "/loading": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/parallelroutes/dashboarddb/page.js"
+      "static/chunks/app/loading.js"
     ],
-    "/parallelroutes/@analytics/analysis/page": [
+    "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/parallelroutes/@analytics/analysis/page.js"
+      "static/chunks/app/page.js"
     ],
-    "/parallelroutes/layout": [
+    "/dashboard/template": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/parallelroutes/layout.js"
+      "static/chunks/app/dashboard/template.js"
     ],
-    "/parallelroutes/page": [
+    "/dashboard/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/parallelroutes/page.js"
+      "static/chunks/app/dashboard/layout.js"
     ],
-    "/parallelroutes/@analytics/page": [
+    "/dashboard/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/parallelroutes/@analytics/page.js"
-    ],
-    "/parallelroutes/@team/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/parallelroutes/@team/page.js"
-    ],
-    "/parallelroutes/@team/default": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/parallelroutes/@team/default.js"
-    ],
-    "/parallelroutes/default": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/parallelroutes/default.js"
-    ],
-    "/parallelroutes/@analytics/default": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/parallelroutes/@analytics/default.js"
+      "static/chunks/app/dashboard/page.js"
     ]
   }
 }

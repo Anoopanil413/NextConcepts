@@ -1,5 +1,4 @@
 {
-  "/parallelroutes/dashboarddb/page": "app/parallelroutes/dashboarddb/page.js",
-  "/parallelroutes/@analytics/analysis/page": "app/parallelroutes/@analytics/analysis/page.js",
-  "/parallelroutes/page": "app/parallelroutes/page.js"
+  "/page": "app/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
 }
